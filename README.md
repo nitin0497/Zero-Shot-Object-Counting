@@ -7,6 +7,6 @@ Below are more resources for replication and reuse.
 2) Precomputed ground truth density maps can be found here: https://archive.org/details/FSC147-GT
 3) Pretrained model weights can be found here: https://drive.google.com/drive/folders/1jm-lYKTerqOEEg-A0zWRgdlj0paR4vXT?usp=sharing
    This folder also has all the required raw datasets, processed images, exemplars, and trained model weights.
-4) The model training was monitored using Weights and Biases. Follow this link for visualisations and various artifacts: https://api.wandb.ai/links/nitinyadav0497-auburn-university/uvl11odd
+4) The model training was monitored using Weights and Biases. Follow this link for visualisations and generated exemplars and density maps: https://api.wandb.ai/links/nitinyadav0497-auburn-university/uvl11odd
 
 
